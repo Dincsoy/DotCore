@@ -1,0 +1,2 @@
+# DotCore
+Dot core denemelerim
